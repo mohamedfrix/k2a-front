@@ -1,0 +1,432 @@
+{
+  "aboutUs": {
+    "title": "من نحن",
+    "description": "نحن فريق متحمس مكرس لإنشاء حلول مبتكرة تحدث فرقاً. تمتد خبرتنا عبر مجالات متعددة، مما يتيح لنا تقديم خدمات شاملة تلبي الاحتياجات المتنوعة لعملائنا. مع سنوات من الخبرة والالتزام بالتميز، نسعى لبناء شراكات دائمة وتحقيق نتائج ذات معنى."
+  },
+  "bookSection": {
+    "title": "احجز مركبتك",
+    "subtitle": "اختر من أسطولنا من المركبات الحديثة والمعتنى بها جيداً",
+    "steps": {
+      "title": "كيف يعمل الأمر",
+      "step1": {
+        "title": "اختر",
+        "description": "اختر مركبتك المثالية"
+      },
+      "step2": {
+        "title": "احجز",
+        "description": "أكد تواريخك وادفع عبر الإنترنت"
+      },
+      "step3": {
+        "title": "اقود",
+        "description": "استلم مركبتك وانطلق"
+      }
+    },
+    "featuredVehicles": "المركبات المميزة",
+    "featuredVehiclesSubtitle": "اكتشف مجموعتنا من أكثر السيارات شعبية.",
+    "viewAllVehicles": "عرض جميع المركبات",
+    "whyChooseUs": "لماذا تختار K2A",
+    "reasons": {
+      "quality": {
+        "title": "مركبات عالية الجودة",
+        "description": "أسطول حديث ومعتنى به جيداً"
+      },
+      "support": {
+        "title": "دعم 24/7",
+        "description": "المساعدة متاحة في أي وقت"
+      },
+      "pricing": {
+        "title": "أسعار شفافة",
+        "description": "لا توجد رسوم خفية، أسعار واضحة"
+      },
+      "flexibility": {
+        "title": "مرونة",
+        "description": "تعديلات وإلغاءات سهلة"
+      }
+    }
+  },
+  "whyUs": {
+    "title": "لماذا تختار K2A؟",
+    "premiumService": {
+      "title": "خدمة متميزة",
+      "description": "فريق مخصص في خدمتكم 24/24 ساعة لتجربة استثنائية."
+    },
+    "guaranteedQuality": {
+      "title": "جودة مضمونة",
+      "description": "جميع مركباتنا يتم صيانتها وفحصها بانتظام من أجل سلامتكم."
+    },
+    "availability247": {
+      "title": "متاح 24/7",
+      "description": "احجز واستلم مركبتك في أي وقت، حسب احتياجاتك."
+    }
+  },
+  "findUs": {
+    "title": "ابحث عنا",
+    "subtitle": "نحن متواجدون في تيزي وزو ومستعدون لاستقبالكم.",
+    "mapPlaceholder": {
+      "title": "خريطة تفاعلية",
+      "description": "سيتم دمج الخريطة التفاعلية هنا لمساعدتكم في العثور علينا بسهولة.",
+      "feature1": "اتجاهات في الوقت الفعلي",
+      "feature2": "موقع دقيق",
+      "feature3": "نقاط اهتمام قريبة"
+    }
+  },
+  "navigation": {
+    "home": "الرئيسية",
+    "findUs": "موقعنا",
+    "services": "الخدمات",
+    "vehicles": "مركباتنا",
+    "contact": "اتصل بنا",
+    "reservation": "الحجز",
+    "faq": "الأسئلة الشائعة",
+    "breadcrumb": "التنقل"
+  },
+  "common": {
+    "welcome": "مرحباً",
+    "learnMore": "اقرأ المزيد",
+    "getStarted": "ابدأ الآن",
+    "language": "اللغة",
+    "goBack": "العودة",
+    "close": "إغلاق",
+    "all": "الكل",
+    "search": "بحث",
+    "export": "تصدير",
+    "filters": "مرشحات",
+    "reset": "إعادة تعيين",
+    "refresh": "تحديث",
+    "loading": "جاري التحميل..."
+  },
+  "features": {
+    "web": {
+      "title": "تطوير المواقع",
+      "description": "تطبيقات ويب حديثة",
+      "technologies": ["React", "Next.js", "TypeScript"]
+    },
+    "mobile": {
+      "title": "تطوير التطبيقات",
+      "description": "تطبيقات محمولة متعددة المنصات"
+    }
+  },
+  "testimonials": [
+    {
+      "name": "أحمد محمد",
+      "role": "الرئيس التنفيذي",
+      "quote": "عمل رائع!"
+    }
+  ],
+  "contact": {
+    "form": {
+      "fields": {
+        "name": "الاسم",
+        "email": "البريد الإلكتروني",
+        "message": "الرسالة"
+      },
+      "validation": {
+        "required": "هذا الحقل مطلوب",
+        "invalidEmail": "يرجى إدخال بريد إلكتروني صحيح"
+      }
+    }
+  },
+  "agency": {
+    "title": "وكالة K2A",
+    "description": "وكالتنا الرئيسية ترحب بكم في إطار عصري ومهني.",
+    "address": "العنوان",
+    "phone": "الهاتف",
+    "email": "البريد الإلكتروني",
+    "availability": "متاح 24/7، 7/7",
+    "responseTime": "الرد خلال 24 ساعة",
+    "businessHours": "ساعات العمل",
+    "weekdays": "الاثنين - الجمعة",
+    "saturday": "السبت",
+    "sunday": "الأحد",
+    "contactUs": "اتصل بنا"
+  },
+  "services": {
+    "title": "خدماتنا المتميزة",
+    "subtitle": "اكتشف حلولنا المتكيفة مع جميع احتياجاتك",
+    "eventsWeddings": {
+      "title": "الفعاليات والأعراس",
+      "description": "مركبات فاخرة للحظاتك الاستثنائية. خدمة شخصية واهتمام بالتفاصيل."
+    },
+    "longTermContracts": {
+      "title": "عقود طويلة المدى للشركات",
+      "description": "حلول مرنة لاحتياجاتك المهنية. أسعار تفضيلية وإدارة مبسطة."
+    },
+    "shortTermRentals": {
+      "title": "تأجير قصير المدى للأفراد",
+      "description": "حجز سريع وبسيط لرحلاتك الشخصية. اختيار واسع من المركبات المتاحة."
+    },
+    "explore": "استكشف",
+    "getInfo": "المزيد من المعلومات",
+    "fastReliable": "خدمة سريعة وموثوقة",
+    "professionalSupport": "دعم مهني",
+    "competitivePricing": "أسعار تنافسية",
+    "verifiedQuality": "جودة مؤكدة"
+  },
+  "vehicles": {
+    "startingFrom": "ابتداء من",
+    "perDay": "/يوم",
+    "viewMore": "عرض المزيد",
+    "book": "احجز",
+    "automatic": "أوتوماتيك",
+    "manual": "يدوي",
+    "hybrid": "هجين",
+    "notAvailable": "غير متاح",
+    "available": "متاح",
+    "featured": "مميز"
+  },
+  "carCard": {
+    "available": "متاح",
+    "unavailable": "غير متاح",
+    "priceUnit": " دج/يوم",
+    "transmission": {
+      "automatic": "أوتوماتيك",
+      "manual": "يدوي"
+    },
+    "vehicleTypes": {
+      "berline": "سيدان",
+      "suv": "دفع رباعي",
+      "compacte": "مدمجة",
+      "4x4": "4×4",
+      "van": "شاحنة صغيرة"
+    }
+  },
+  "reviews": {
+    "client": "عميل",
+    "rating": "تقييم"
+  },
+
+  "feedback": {
+    "title": {
+      "prefix": "ما يقوله",
+      "highlight": "عملاؤنا"
+    },
+    "subtitle": "شهادات أصيلة من مستخدمينا الراضين."
+  },
+  "cars": {
+    "title": "أسطول مركباتنا",
+    "subtitle": "اكتشف مجموعتنا الواسعة من المركبات المتميزة لجميع احتياجات النقل الخاصة بك",
+    "results": {
+      "title": "نتائج البحث",
+      "showing": "عرض",
+      "of": "من",
+      "vehicles": "مركبات"
+    },
+    "sort": {
+      "nameAsc": "الاسم (أ-ي)",
+      "nameDesc": "الاسم (ي-أ)", 
+      "priceAsc": "السعر: من المنخفض إلى المرتفع",
+      "priceDesc": "السعر: من المرتفع إلى المنخفض",
+      "yearDesc": "الأحدث أولاً",
+      "yearAsc": "الأقدم أولاً"
+    },
+    "noResults": {
+      "title": "لم يتم العثور على مركبات",
+      "message": "لا توجد مركبات تطابق معايير البحث الخاصة بك. حاول تعديل المرشحات.",
+      "reset": "إعادة تعيين المرشحات"
+    }
+  },
+  "filters": {
+    "title": "مرشحات البحث",
+    "vehicleType": "نوع المركبة",
+    "rentalServices": "خدمات التأجير",
+    "priceRange": "نطاق السعر (دج/يوم)",
+    "brand": "العلامة التجارية",
+    "sortBy": "ترتيب حسب",
+    "vehicleTypes": {
+      "car": "سيارة",
+      "suv": "دفع رباعي",
+      "truck": "شاحنة",
+      "van": "فان",
+      "motorcycle": "دراجة نارية"
+    },
+    "services": {
+      "selfDrive": "قيادة ذاتية",
+      "withDriver": "مع سائق",
+      "longTerm": "تأجير طويل المدى",
+      "shortTerm": "تأجير قصير المدى"
+    },
+    "sort": {
+      "priceLowHigh": "السعر: من المنخفض إلى المرتفع",
+      "priceHighLow": "السعر: من المرتفع إلى المنخفض",
+      "nameAZ": "الاسم (أ-ي)",
+      "nameZA": "الاسم (ي-أ)",
+      "yearNewOld": "الأحدث أولاً",
+      "yearOldNew": "الأقدم أولاً"
+    },
+    "placeholders": {
+      "selectType": "اختر نوعاً",
+      "chooseService": "اختر خدمة",
+      "selectBrand": "اختر علامة تجارية",
+      "chooseOption": "اختر خياراً..."
+    },
+    "actions": {
+      "clear": "مسح",
+      "apply": "تطبيق المرشحات"
+    },
+    "results": "نتائج",
+    "resetAll": "إعادة تعيين الكل",
+    "search": "بحث",
+    "searchPlaceholder": "البحث بالعلامة التجارية أو الطراز...",
+    "specifications": "المواصفات",
+    "transmission": "ناقل الحركة",
+    "fuelType": "نوع الوقود",
+    "year": "السنة",
+    "capacity": "السعة",
+    "price": "السعر",
+    "pricePerDay": "السعر في اليوم (دج)",
+    "availability": "التوفر",
+    "availableOnly": "المتاح فقط",
+    "featuredOnly": "المركبات المميزة",
+    "petrol": "بنزين",
+    "diesel": "ديزل",
+    "electric": "كهربائي"
+  },
+  "pagination": {
+    "navigation": "تنقل الصفحات",
+    "previous": "السابق",
+    "next": "التالي",
+    "page": "صفحة",
+    "showing": "صفحة",
+    "of": "من"
+  },
+  "hero": {
+    "title": "انطلق بثقة على الطريق",
+    "slogan": "احجز بسهولة. قد براحة البال مع K2A.",
+    "primaryButton": "اتصل بنا",
+    "secondaryButton": "اكتشف مركباتنا",
+    "filter": {
+      "title": "احجز مركبتك",
+      "pickupLocation": "مكان الاستلام",
+      "dropoffLocation": "مكان الإرجاع",
+      "selectLocation": "اختر موقعاً",
+      "pickupDateTime": "تاريخ ووقت الاستلام",
+      "dropoffDateTime": "تاريخ ووقت الإرجاع",
+      "date": "التاريخ",
+      "time": "الوقت",
+      "searchButton": "البحث عن مركبات"
+    }
+  },
+  "metadata": {
+    "site": {
+      "title": "K2A لتأجير السيارات - خدمة تأجير السيارات المتميزة",
+      "description": "تقدم K2A لتأجير السيارات خدمات تأجير متميزة مع مجموعة واسعة من المركبات. احجز سيارتك المثالية اليوم!"
+    },
+    "pages": {
+      "vehicles": {
+        "title": "مركباتنا | K2A لتأجير السيارات",
+        "description": "اكتشف أسطولنا الكامل من المركبات الحديثة والمعتنى بها جيداً. BMW، Mercedes، Audi والمزيد. حجز سهل عبر الإنترنت.",
+        "keywords": "تأجير سيارات، BMW، Mercedes، Audi، مركبات، تيزي وزو، الجزائر"
+      },
+      "home": {
+        "title": "K2A لتأجير السيارات - تأجير سيارات متميز في الجزائر",
+        "description": "استأجر مركبات متميزة في الجزائر مع K2A. أسطول حديث، أسعار تنافسية، خدمة 24/7. احجز الآن!",
+        "keywords": "تأجير سيارات الجزائر، تأجير مركبات، سيارات متميزة، K2A، تيزي وزو"
+      },
+      "about": {
+        "title": "من نحن | K2A لتأجير السيارات",
+        "description": "تعرف على K2A لتأجير السيارات، شريكك الموثوق لتأجير المركبات في الجزائر. خدمة عالية الجودة منذ تأسيسنا.",
+        "keywords": "عن K2A، شركة تأجير سيارات، تأجير مركبات الجزائر"
+      },
+      "contact": {
+        "title": "اتصل بنا | K2A لتأجير السيارات",
+        "description": "تواصل مع K2A لتأجير السيارات. معلومات الاتصال، مكتبنا في تيزي وزو، ودعم العملاء.",
+        "keywords": "اتصل بـ K2A، اتصال تأجير سيارات، مكتب تيزي وزو"
+      }
+    }
+  },
+
+  "admin": {
+    "welcome": "مرحبا بك في فضاء المشرف"
+  },
+  "dashboard": {
+    "navbar": {
+      "dashboard": {
+        "title": "لوحة التحكم",
+        "subtitle": "إدارة حسابك وحجوزاتك",
+        "connection_state": "متصل"
+      },
+       "vehicles": {
+        "title": "المركبات",
+        "subtitle": "إدارة حسابك وحجوزاتك"
+       }
+    },
+    "sidebar": {
+      "dashboard": "لوحة القيادة",
+      "Vehicles": "المركبات",
+      "Clients": "العملاء",
+      "Content": "العقود",
+      "Feedback": "الملاحظات",
+      "logout": "تسجيل الخروج"
+    },
+    "stat_card": {
+      "title": "المركبات المتاحة",
+      "total_revenue": "إجمالي الإيرادات",
+      "total_contracts": "إجمالي العقود",
+      "total_clients": "إجمالي العملاء",
+      "total_vehicles": "إجمالي المركبات",
+      "available_vehicles": "المركبات المتاحة",
+      "active_contracts": "العقود النشطة",
+      "new_clients": "العملاء الجدد",
+      "utilization_rate": "معدل الاستخدام"
+    },
+    "recent_activity": {
+      "title": "النشاطات مؤخرا",
+      "confirmed_reservation": "حجز مؤكد",
+      "new_contract": "عقد جديد",
+      "new_client": "عميل جديد",
+      "contract_completed": "عقد مكتمل",
+      "payment_received": "تم استلام الدفع"
+    },
+    "rental_type": {
+      "title": "نوع الإيجار",
+      "subtitle": "نسبة كل نوع من أنواع الإيجار"
+    },
+
+  "carSpecs": {
+    "title": "المواصفات التفصيلية",
+    "titleDetailed": "المواصفات التفصيلية",
+    "equipment": "التجهيزات",
+    "specifications": {
+      "brand": "العلامة التجارية",
+      "model": "الطراز",
+      "year": "السنة",
+      "color": "اللون",
+      "engineType": "نوع المحرك",
+      "transmission": "ناقل الحركة",
+      "fuelType": "نوع الوقود",
+      "capacity": "السعة"
+    }
+  },
+  "vehicleDetails": {
+    "gallery": "المعرض",
+    "specifications": "المواصفات",
+    "pricing": "التسعير",
+    "selectDate": "اختر التاريخ",
+    "calculateCustomPrice": "احسب السعر المخصص الخاص بك!",
+    "availableIn": "متوفر في"
+  },
+  "priceCalc": {
+    "title": "حاسبة الأسعار",
+    "startDate": "تاريخ البداية",
+    "endDate": "تاريخ النهاية",
+    "chooseDates": "اختر التواريخ",
+    "accessories": "الإكسسوارات",
+    "additionalOptions": "خيارات إضافية",
+    "carRentalPrice": "سعر تأجير السيارة",
+    "accessoriesPrice": "سعر الإكسسوارات",
+    "totalPrice": "إجمالي السعر",
+    "perDay": "/يوم",
+    "confirmBooking": "تأكيد الحجز",
+    "selectDatesToContinue": "اختر التواريخ للمتابعة",
+    "days": "أيام",
+    "day": "يوم"
+  }
+  ,
+  "calculatePriceNeeded": "يرجى تقديم التواريخ لحساب السعر"
+},
+  "brochure": {
+    "title": "كتيباتنا",
+    "description": "اكتشف كتالوجاتنا التفصيلية لجميع احتياجاتك في التأجير",
+    "download": "تحميل الكتيبات"
+}
+}

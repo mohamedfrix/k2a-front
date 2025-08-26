@@ -1,0 +1,23 @@
+{
+  "name": "K2A Car Rental",
+  "short_name": "K2A Rental", 
+  "description": "Premium Car Rental Service",
+  "icons": [
+    {
+      "src": "/logo-black.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/favicon.svg", 
+      "sizes": "32x32",
+      "type": "image/svg+xml"
+    }
+  ],
+  "theme_color": "#F1861B",
+  "background_color": "#FFFFFF",
+  "display": "standalone",
+  "start_url": "/",
+  "scope": "/"
+}

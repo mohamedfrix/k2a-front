@@ -1,0 +1,429 @@
+{
+  "aboutUs": {
+    "title": "À Propos de Nous",
+    "description": "Nous sommes une équipe passionnée dédiée à la création de solutions innovantes qui font la différence. Notre expertise s'étend sur plusieurs domaines, nous permettant de fournir des services complets qui répondent aux besoins diversifiés de nos clients. Avec des   "admin": {
+    "welcome": "Bienvenue dans l'espace administrateur"
+  },
+  "contracts": {
+    "title": "Gestion des Contrats",
+    "subtitle": "Gérer les contrats de location de véhicules et les réservations",
+    "createContract": "Créer un Nouveau Contrat",
+    "searchPlaceholder": "Rechercher des contrats par client, véhicule ou ID...",
+    "dateRange": "Plage de Dates",
+    "status": {
+      "pending": "En Attente",
+      "confirmed": "Confirmé", 
+      "active": "Actif",
+      "completed": "Terminé",
+      "cancelled": "Annulé"
+    },
+    "paymentStatus": {
+      "pending": "Paiement en Attente",
+      "depositPaid": "Acompte Payé",
+      "paid": "Entièrement Payé",
+      "refunded": "Remboursé"
+    }
+  },ées d'expérience et un engagement envers l'excellence, nous nous efforçons de construire des partenariats durables et de générer des résultats significatifs."
+  },
+  "bookSection": {
+    "title": "Réservez Votre Véhicule",
+    "subtitle": "Choisissez parmi notre flotte de véhicules modernes et bien entretenus",
+    "steps": {
+      "title": "Comment ça marche",
+      "step1": {
+        "title": "Choisissez",
+        "description": "Sélectionnez votre véhicule idéal"
+      },
+      "step2": {
+        "title": "Réservez",
+        "description": "Confirmez vos dates et payez en ligne"
+      },
+      "step3": {
+        "title": "Conduisez",
+        "description": "Récupérez votre véhicule et partez"
+      }
+    },
+    "featuredVehicles": "Véhicules en Vedette",
+    "featuredVehiclesSubtitle": "Découvrez notre sélection de voitures les plus populaires.",
+    "viewAllVehicles": "Voir Tous les Véhicules",
+    "whyChooseUs": "Pourquoi Choisir K2A",
+    "reasons": {
+      "quality": {
+        "title": "Véhicules de Qualité",
+        "description": "Flotte moderne et bien entretenue"
+      },
+      "support": {
+        "title": "Support 24/7",
+        "description": "Assistance disponible à tout moment"
+      },
+      "pricing": {
+        "title": "Prix Transparents",
+        "description": "Pas de frais cachés, tarifs clairs"
+      },
+      "flexibility": {
+        "title": "Flexibilité",
+        "description": "Modifications et annulations faciles"
+      }
+    }
+  },
+  "whyUs": {
+    "title": "Pourquoi Choisir K2A?",
+    "premiumService": {
+      "title": "Service Premium",
+      "description": "Une équipe dédiée à votre service 24h/24 pour une expérience exceptionnelle."
+    },
+    "guaranteedQuality": {
+      "title": "Qualité Garantie",
+      "description": "Tous nos véhicules sont régulièrement entretenus et vérifiés pour votre sécurité."
+    },
+    "availability247": {
+      "title": "Disponibilité 24/7",
+      "description": "Réservez et récupérez votre véhicule à tout moment, selon vos besoins."
+    }
+  },
+  "findUs": {
+    "title": "Trouvez-nous",
+    "subtitle": "Nous sommes situés à Tizi Ouzou et prêts à vous accueillir.",
+    "mapPlaceholder": {
+      "title": "Carte Interactive",
+      "description": "La carte interactive sera intégrée ici pour vous aider à nous localiser facilement.",
+      "feature1": "Itinéraire en temps réel",
+      "feature2": "Localisation précise",
+      "feature3": "Points d'intérêt à proximité"
+    }
+  },
+  "navigation": {
+    "home": "Accueil",
+    "findUs": "Nous Trouver",
+    "services": "Services",
+    "vehicles": "Nos Véhicules",
+    "contact": "Contact",
+    "reservation": "Réservation",
+    "faq": "FAQ",
+    "breadcrumb": "Fil d'Ariane"
+  },
+  "common": {
+    "welcome": "Bienvenue",
+    "learnMore": "En Savoir Plus",
+    "getStarted": "Commencer",
+    "language": "Langue",
+    "goBack": "Retour",
+    "close": "Fermer"
+  },
+  "features": {
+    "web": {
+      "title": "Développement Web",
+      "description": "Applications web modernes",
+      "technologies": ["React", "Next.js", "TypeScript"]
+    },
+    "mobile": {
+      "title": "Développement Mobile",
+      "description": "Applications mobiles multiplateformes"
+    }
+  },
+  "testimonials": [
+    {
+      "name": "Jean Dupont",
+      "role": "PDG",
+      "quote": "Travail fantastique!"
+    }
+  ],
+  "contact": {
+    "form": {
+      "fields": {
+        "name": "Nom",
+        "email": "Email",
+        "message": "Message"
+      },
+      "validation": {
+        "required": "Ce champ est requis",
+        "invalidEmail": "Veuillez entrer un email valide"
+      }
+    }
+  },
+
+  "weekDaysAbbr": ["Dim", "Lun", "Mar", "Mer", "Jeu", "Ven", "Sam"],
+
+  "agency": {
+    "title": "Agence K2A",
+    "description": "Notre agence principale vous accueille dans un cadre moderne et professionnel.",
+    "address": "Adresse",
+    "phone": "Téléphone",
+    "email": "Email",
+    "availability": "Disponible 24h/24, 7j/7",
+    "responseTime": "Réponse sous 24h",
+    "businessHours": "Horaires d'ouverture",
+    "weekdays": "Lundi - Vendredi",
+    "saturday": "Samedi",
+    "sunday": "Dimanche",
+    "contactUs": "Nous Contacter"
+  },
+  "services": {
+    "title": "Nos Services Premium",
+    "subtitle": "Découvrez nos solutions adaptées à tous vos besoins",
+    "eventsWeddings": {
+      "title": "Événements et Mariages",
+      "description": "Véhicules de prestige pour vos moments exceptionnels. Service personnalisé et attention aux détails."
+    },
+    "longTermContracts": {
+      "title": "Contrats Longue Durée Entreprises",
+      "description": "Solutions flexibles pour vos besoins professionnels. Tarifs préférentiels et gestion simplifiée."
+    },
+    "shortTermRentals": {
+      "title": "Locations Courte Durée Particuliers",
+      "description": "Réservation rapide et simple pour vos déplacements personnels. Large choix de véhicules disponibles."
+    },
+    "explore": "Explorer",
+    "getInfo": "Plus d'Infos",
+    "fastReliable": "Service Rapide et Fiable",
+    "professionalSupport": "Support Professionnel",
+    "competitivePricing": "Prix Compétitifs",
+    "verifiedQuality": "Qualité Vérifiée"
+  },
+  "vehicles": {
+    "startingFrom": "À partir de",
+    "perDay": "/jour",
+    "viewMore": "Voir Plus",
+    "book": "Réserver",
+    "automatic": "Automatique",
+    "manual": "Manuelle",
+    "hybrid": "Hybride",
+    "notAvailable": "Non Disponible",
+    "available": "Disponible",
+    "featured": "En Vedette"
+  },
+  "carCard": {
+    "available": "Disponible",
+    "unavailable": "Indisponible",
+    "priceUnit": " DA/Jour",
+    "transmission": {
+      "automatic": "Automatique",
+      "manual": "Manuelle"
+    },
+    "vehicleTypes": {
+      "berline": "Berline",
+      "suv": "SUV",
+      "compacte": "Compacte",
+      "4x4": "4X4",
+      "van": "Utilitaire"
+    }
+  },
+  "reviews": {
+    "client": "CLIENT",
+    "rating": "note"
+  },
+
+  "feedback": {
+    "title": {
+      "prefix": "Ce que disent nos",
+      "highlight": "clients"
+    },
+    "subtitle": "Des témoignages authentiques de nos utilisateurs satisfaits."
+  },
+  "cars": {
+    "title": "Notre Flotte de Véhicules",
+    "subtitle": "Découvrez notre large sélection de véhicules premium pour tous vos besoins de déplacement",
+    "results": {
+      "title": "Résultats de recherche",
+      "showing": "Affichage de",
+      "of": "sur",
+      "vehicles": "véhicules"
+    },
+    "sort": {
+      "nameAsc": "Nom (A-Z)",
+      "nameDesc": "Nom (Z-A)", 
+      "priceAsc": "Prix croissant",
+      "priceDesc": "Prix décroissant",
+      "yearDesc": "Plus récent",
+      "yearAsc": "Plus ancien"
+    },
+    "noResults": {
+      "title": "Aucun véhicule trouvé",
+      "message": "Aucun véhicule ne correspond à vos critères de recherche. Essayez de modifier vos filtres.",
+      "reset": "Réinitialiser les filtres"
+    }
+  },
+  "filters": {
+    "title": "Filtres de recherche",
+    "vehicleType": "Type de véhicule",
+    "rentalServices": "Services de location",
+    "priceRange": "Gamme de prix (DA/jour)",
+    "brand": "Marque",
+    "sortBy": "Trier par",
+    "vehicleTypes": {
+      "car": "Voiture",
+      "suv": "SUV",
+      "truck": "Camion",
+      "van": "Fourgon",
+      "motorcycle": "Moto"
+    },
+    "services": {
+      "selfDrive": "Auto-conduit",
+      "withDriver": "Avec chauffeur",
+      "longTerm": "Location longue durée",
+      "shortTerm": "Location courte durée"
+    },
+    "sort": {
+      "priceLowHigh": "Prix croissant",
+      "priceHighLow": "Prix décroissant",
+      "nameAZ": "Nom (A-Z)",
+      "nameZA": "Nom (Z-A)",
+      "yearNewOld": "Plus récent d'abord",
+      "yearOldNew": "Plus ancien d'abord"
+    },
+    "placeholders": {
+      "selectType": "Sélectionner un type",
+      "chooseService": "Choose service",
+      "selectBrand": "Sélectionner une marque",
+      "chooseOption": "Choose option..."
+    },
+    "actions": {
+      "clear": "Effacer",
+      "apply": "Appliquer les filtres"
+    },
+    "results": "résultats",
+    "resetAll": "Tout réinitialiser",
+    "search": "Recherche",
+    "searchPlaceholder": "Rechercher par marque ou modèle...",
+    "specifications": "Spécifications",
+    "transmission": "Transmission",
+    "fuelType": "Type de carburant",
+    "year": "Année",
+    "capacity": "Capacité",
+    "price": "Prix",
+    "pricePerDay": "Prix par jour (DZD)",
+    "availability": "Disponibilité",
+    "availableOnly": "Disponible uniquement",
+    "featuredOnly": "Véhicules en vedette",
+    "petrol": "Essence",
+    "diesel": "Diesel",
+    "electric": "Électrique"
+  },
+  "pagination": {
+    "navigation": "Navigation des pages",
+    "previous": "Précédent",
+    "next": "Suivant",
+    "page": "Page",
+    "showing": "Page",
+    "of": "sur"
+  },
+  "hero": {
+    "title": "Prenez la route en toute confiance",
+    "slogan": "Réservez facilement. Roulez en toute sérénité avec K2A.",
+    "primaryButton": "Nous Contacter",
+    "secondaryButton": "Découvrir nos véhicules",
+    "filter": {
+      "title": "Réservez votre véhicule",
+      "pickupLocation": "Lieu de prise en charge",
+      "dropoffLocation": "Lieu de retour",
+      "selectLocation": "Sélectionner un lieu",
+      "pickupDateTime": "Date et heure de prise en charge",
+      "dropoffDateTime": "Date et heure de retour",
+      "date": "Date",
+      "time": "Heure",
+      "searchButton": "Rechercher des véhicules"
+    }
+  },
+  "metadata": {
+    "site": {
+      "title": "K2A Location de Voitures - Service de Location Premium",
+      "description": "K2A Location de Voitures offre des services de location premium avec une large sélection de véhicules. Réservez votre voiture parfaite aujourd'hui !"
+    },
+    "pages": {
+      "vehicles": {
+        "title": "Nos Véhicules | K2A Location de Voitures",
+        "description": "Découvrez notre flotte complète de véhicules modernes et bien entretenus. BMW, Mercedes, Audi et plus encore. Réservation en ligne facile.",
+        "keywords": "location voiture, BMW, Mercedes, Audi, véhicules, Tizi Ouzou, Algérie"
+      },
+      "home": {
+        "title": "K2A Location de Voitures - Location Premium en Algérie",
+        "description": "Louez des véhicules premium en Algérie avec K2A. Flotte moderne, prix compétitifs, service 24h/24. Réservez maintenant !",
+        "keywords": "location voiture Algérie, location véhicule, voitures premium, K2A, Tizi Ouzou"
+      },
+      "about": {
+        "title": "À Propos | K2A Location de Voitures",
+        "description": "Découvrez K2A Location de Voitures, votre partenaire de confiance pour la location de véhicules en Algérie. Service de qualité depuis notre création.",
+        "keywords": "à propos K2A, compagnie location voiture, location véhicule Algérie"
+      },
+      "contact": {
+        "title": "Contactez-nous | K2A Location de Voitures",
+        "description": "Contactez K2A Location de Voitures. Informations de contact, bureau à Tizi Ouzou, et support client.",
+        "keywords": "contact K2A, contact location voiture, bureau Tizi Ouzou"
+      }
+    }
+  },
+
+  "admin": {
+    "welcome": "Bienvenue dans l’espace administrateur"
+  },
+  "dashboard": {
+    "navbar": {
+      "dashboard": {
+        "title": "Tableau de bord",
+        "subtitle": "Gérez votre compte et vos réservations",
+        "connection_state": "En ligne"
+      },
+      "vehicles": {
+        "title": "Véhicules",
+        "subtitle": "Gérez votre compte et vos réservations"
+      }
+    },
+    "sidebar": {
+      "dashboard": "Tableau de Bord",
+      "Vehicles": "Véhicules",
+      "Clients": "Clients",
+      "Content": "Contrats",
+      "Feedback": "Feedback",
+      "logout": "Déconnexion"
+    },
+    "stat_card": {
+      "title": "Available Vehicles"
+    },
+    "recent_activity": {
+      "title": "Activité Récente",
+      "confirmed_reservation": "Réservation Confirmée"
+    },
+    "rental_type": {
+      "title": "Type de location",
+      "subtitle": "Proportion de chaque type de location"      
+    },
+  "carSpecs": {
+    "title": "Spécifications détaillées",
+    "equipment": "Équipements",
+    "specifications": {
+      "brand": "Marque",
+      "model": "Modèle",
+      "year": "Année",
+      "color": "Couleur",
+      "engineType": "Type de moteur",
+      "transmission": "Transmission",
+      "fuelType": "Type de carburant",
+      "capacity": "Capacité"
+    }
+  },
+  "vehicleDetails": {
+    "gallery": "Galerie",
+    "specifications": "Spécifications",
+    "pricing": "Tarification",
+    "selectDate": "Sélectionner une Date",
+    "calculateCustomPrice": "Calculez votre Prix Personnalisé !",
+    "availableIn": "Disponible à"
+  },
+  "priceCalc": {
+    "title": "Calculateur de Prix",
+    "startDate": "Date de Début",
+    "endDate": "Date de Fin",
+    "chooseDates": "Choisir les dates",
+    "accessories": "Accessoires",
+    "additionalOptions": "Options Supplémentaires",
+    "carRentalPrice": "Prix de Location",
+    "accessoriesPrice": "Prix des Accessoires",
+    "totalPrice": "Votre Total",
+    "perDay": "/Jour",
+    "confirmBooking": "Confirmer la Réservation",
+    "selectDatesToContinue": "Sélectionner les Dates pour Continuer",
+    "days": "jours",
+    "day": "jour"
+  }
+}
+}

@@ -1,0 +1,466 @@
+{
+  "aboutUs": {
+    "title": "About Us",
+    "description": "We are a passionate team dedicated to creating innovative solutions that make a difference. Our expertise spans across multiple domains, allowing us to deliver comprehensive services that meet our clients' diverse needs. With years of experience and a commitment to excellence, we strive to build lasting partnerships and drive meaningful results."
+  },
+  "bookSection": {
+    "title": "Book Your Vehicle",
+    "subtitle": "Choose from our fleet of modern and well-maintained vehicles",
+    "steps": {
+      "title": "How It Works",
+      "step1": {
+        "title": "Choose",
+        "description": "Select your ideal vehicle"
+      },
+      "step2": {
+        "title": "Book",
+        "description": "Confirm your dates and pay online"
+      },
+      "step3": {
+        "title": "Drive",
+        "description": "Pick up your vehicle and go"
+      }
+    },
+    "featuredVehicles": "Featured Vehicles",
+    "featuredVehiclesSubtitle": "Discover our selection of the most popular cars.",
+    "viewAllVehicles": "View All Vehicles",
+    "whyChooseUs": "Why Choose K2A",
+    "reasons": {
+      "quality": {
+        "title": "Quality Vehicles",
+        "description": "Modern and well-maintained fleet"
+      },
+      "support": {
+        "title": "24/7 Support",
+        "description": "Assistance available anytime"
+      },
+      "pricing": {
+        "title": "Transparent Pricing",
+        "description": "No hidden fees, clear rates"
+      },
+      "flexibility": {
+        "title": "Flexibility",
+        "description": "Easy modifications and cancellations"
+      }
+    }
+  },
+  "whyUs": {
+    "title": "Why Choose K2A?",
+    "premiumService": {
+      "title": "Premium Service",
+      "description": "A dedicated team at your service 24/7 for an exceptional experience."
+    },
+    "guaranteedQuality": {
+      "title": "Guaranteed Quality",
+      "description": "All our vehicles are regularly maintained and checked for your safety."
+    },
+    "availability247": {
+      "title": "24/7 Availability",
+      "description": "Book and pick up your vehicle anytime, according to your needs."
+    }
+  },
+  "findUs": {
+    "title": "Find Us",
+    "subtitle": "We are located in Tizi Ouzou and ready to welcome you.",
+    "mapPlaceholder": {
+      "title": "Interactive Map",
+      "description": "The interactive map will be integrated here to help you locate us easily.",
+      "feature1": "Real-time directions",
+      "feature2": "Precise location",
+      "feature3": "Nearby points of interest"
+    }
+  },
+  "navigation": {
+    "home": "Home",
+    "findUs": "Find Us",
+    "services": "Services",
+    "vehicles": "Our Vehicles",
+    "contact": "Contact",
+    "reservation": "Reservation",
+    "faq": "FAQ",
+    "breadcrumb": "Breadcrumb"
+  },
+  "common": {
+    "welcome": "Welcome",
+    "learnMore": "Learn More",
+    "getStarted": "Get Started",
+    "language": "Language",
+    "goBack": "Go Back",
+    "close": "Close",
+    "all": "All",
+    "search": "Search",
+    "export": "Export",
+    "filters": "Filters",
+    "reset": "Reset",
+    "refresh": "Refresh",
+    "loading": "Loading..."
+  },
+  "features": {
+    "web": {
+      "title": "Web Development",
+      "description": "Modern web applications",
+      "technologies": ["React", "Next.js", "TypeScript"]
+    },
+    "mobile": {
+      "title": "Mobile Development",
+      "description": "Cross-platform mobile apps"
+    }
+  },
+  "testimonials": [
+    {
+      "name": "John Doe",
+      "role": "CEO",
+      "quote": "Amazing work!"
+    }
+  ],
+  "contact": {
+    "form": {
+      "fields": {
+        "name": "Name",
+        "email": "Email",
+        "message": "Message"
+      },
+      "validation": {
+        "required": "This field is required",
+        "invalidEmail": "Please enter a valid email"
+      }
+    }
+  },
+
+  "weekDaysAbbr": ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"],
+  "agency": {
+    "title": "K2A Agency",
+    "description": "Our main agency welcomes you in a modern and professional setting.",
+    "address": "Address",
+    "phone": "Phone",
+    "email": "Email",
+    "availability": "Available 24/7, 7/7",
+    "responseTime": "Response within 24h",
+    "businessHours": "Opening Hours",
+    "weekdays": "Monday - Friday",
+    "saturday": "Saturday",
+    "sunday": "Sunday",
+    "contactUs": "Contact Us"
+  },
+  "services": {
+    "title": "Our Premium Services",
+    "subtitle": "Discover our solutions adapted to all your needs",
+    "eventsWeddings": {
+      "title": "Events and Weddings",
+      "description": "Premium vehicles for your exceptional moments. Personalized service and attention to detail."
+    },
+    "longTermContracts": {
+      "title": "Long-Term Corporate Contracts",
+      "description": "Flexible solutions for your professional needs. Preferential rates and simplified management."
+    },
+    "shortTermRentals": {
+      "title": "Short-Term Private Rentals",
+      "description": "Quick and simple booking for your personal trips. Wide choice of available vehicles."
+    },
+    "explore": "Explore",
+    "getInfo": "Get Info",
+    "fastReliable": "Fast & Reliable Service",
+    "professionalSupport": "Professional Support",
+    "competitivePricing": "Competitive Pricing",
+    "verifiedQuality": "Verified Quality"
+  },
+  "vehicles": {
+    "startingFrom": "Starting from",
+    "perDay": "/day",
+    "viewMore": "View More",
+    "book": "Book",
+    "automatic": "Automatic",
+    "manual": "Manual",
+    "hybrid": "Hybrid",
+    "notAvailable": "Not Available",
+    "available": "Available",
+    "featured": "Featured",
+    "vehicle": "Vehicle"
+  },
+  "carCard": {
+    "available": "Available",
+    "unavailable": "Unavailable",
+    "priceUnit": " DA/Day",
+    "transmission": {
+      "automatic": "Automatic",
+      "manual": "Manual"
+    },
+    "vehicleTypes": {
+      "berline": "Sedan",
+      "suv": "SUV",
+      "compacte": "Compact",
+      "4x4": "4X4",
+      "van": "Van"
+    }
+  },
+  "reviews": {
+    "client": "CLIENT",
+    "rating": "rating"
+  },
+
+  "feedback": {
+    "title": {
+      "prefix": "What our",
+      "highlight": "clients"
+    },
+    "subtitle": "Authentic testimonials from our satisfied users."
+  },
+  "cars": {
+    "title": "Our Vehicle Fleet",
+    "subtitle": "Discover our wide selection of premium vehicles for all your transportation needs",
+    "results": {
+      "title": "Search Results",
+      "showing": "Showing",
+      "of": "of",
+      "vehicles": "vehicles"
+    },
+    "sort": {
+      "nameAsc": "Name (A-Z)",
+      "nameDesc": "Name (Z-A)", 
+      "priceAsc": "Price: Low to High",
+      "priceDesc": "Price: High to Low",
+      "yearDesc": "Newest First",
+      "yearAsc": "Oldest First"
+    },
+    "noResults": {
+      "title": "No vehicles found",
+      "message": "No vehicles match your search criteria. Try adjusting your filters.",
+      "reset": "Reset Filters"
+    }
+  },
+  "filters": {
+    "title": "Search Filters",
+    "vehicleType": "Vehicle Type",
+    "rentalServices": "Rental Services",
+    "priceRange": "Price Range (DA/day)",
+    "brand": "Brand",
+    "sortBy": "Sort By",
+    "vehicleTypes": {
+      "car": "Car",
+      "suv": "SUV",
+      "truck": "Truck",
+      "van": "Van",
+      "motorcycle": "Motorcycle"
+    },
+    "services": {
+      "selfDrive": "Self Drive",
+      "withDriver": "With Driver",
+      "longTerm": "Long Term Rental",
+      "shortTerm": "Short Term Rental"
+    },
+    "sort": {
+      "priceLowHigh": "Price: Low to High",
+      "priceHighLow": "Price: High to Low",
+      "nameAZ": "Name (A-Z)",
+      "nameZA": "Name (Z-A)",
+      "yearNewOld": "Newest First",
+      "yearOldNew": "Oldest First"
+    },
+    "placeholders": {
+      "selectType": "Select a type",
+      "chooseService": "Choose service",
+      "selectBrand": "Select a brand",
+      "chooseOption": "Choose option..."
+    },
+    "actions": {
+      "clear": "Clear",
+      "apply": "Apply Filters"
+    },
+    "results": "results",
+    "resetAll": "Reset All",
+    "search": "Search",
+    "searchPlaceholder": "Search by brand or model...",
+    "specifications": "Specifications",
+    "transmission": "Transmission",
+    "fuelType": "Fuel Type",
+    "year": "Year",
+    "capacity": "Capacity",
+    "price": "Price",
+    "pricePerDay": "Price per day (DZD)",
+    "availability": "Availability",
+    "availableOnly": "Available only",
+    "featuredOnly": "Featured vehicles",
+    "petrol": "Petrol",
+    "diesel": "Diesel",
+    "electric": "Electric"
+  },
+  "pagination": {
+    "navigation": "Page navigation",
+    "previous": "Previous",
+    "next": "Next",
+    "page": "Page",
+    "showing": "Page",
+    "of": "of"
+  },
+  "hero": {
+    "title": "Hit the road with confidence",
+    "slogan": "Book easily. Drive with peace of mind with K2A.",
+    "primaryButton": "Contact Us",
+    "secondaryButton": "Discover our vehicles",
+    "filter": {
+      "title": "Book your vehicle",
+      "pickupLocation": "Pickup location",
+      "dropoffLocation": "Drop-off location", 
+      "selectLocation": "Select a location",
+      "pickupDateTime": "Pickup date and time",
+      "dropoffDateTime": "Drop-off date and time",
+      "date": "Date",
+      "time": "Time",
+      "searchButton": "Search vehicles"
+    }
+  },
+  "metadata": {
+    "site": {
+      "title": "K2A Car Rental - Premium Car Rental Service",
+      "description": "K2A Car Rental offers premium car rental services with a wide selection of vehicles. Book your perfect car today!"
+    },
+    "pages": {
+      "vehicles": {
+        "title": "Our Vehicles | K2A Car Rental",
+        "description": "Discover our complete fleet of modern and well-maintained vehicles. BMW, Mercedes, Audi and more. Easy online booking.",
+        "keywords": "car rental, BMW, Mercedes, Audi, vehicles, Tizi Ouzou, Algeria"
+      },
+      "home": {
+        "title": "K2A Car Rental - Premium Car Rental in Algeria",
+        "description": "Rent premium vehicles in Algeria with K2A. Modern fleet, competitive prices, 24/7 service. Book now!",
+        "keywords": "car rental Algeria, vehicle rental, premium cars, K2A, Tizi Ouzou"
+      },
+      "about": {
+        "title": "About Us | K2A Car Rental",
+        "description": "Learn more about K2A Car Rental, your trusted partner for vehicle rental in Algeria. Quality service since our founding.",
+        "keywords": "about K2A, car rental company, Algeria vehicle rental"
+      },
+      "contact": {
+        "title": "Contact Us | K2A Car Rental",
+        "description": "Get in touch with K2A Car Rental. Contact information, office location in Tizi Ouzou, and customer support.",
+        "keywords": "contact K2A, car rental contact, Tizi Ouzou office"
+      }
+    }
+  },
+
+  "admin": {
+    "welcome": "Weclome to the Admin space"
+  },
+  "contracts": {
+    "title": "Contracts Management",
+    "subtitle": "Manage vehicle rental contracts and bookings",
+    "createContract": "Create New Contract",
+    "searchPlaceholder": "Search contracts by client, vehicle, or ID...",
+    "dateRange": "Date Range",
+    "status": {
+      "pending": "Pending",
+      "confirmed": "Confirmed", 
+      "active": "Active",
+      "completed": "Completed",
+      "cancelled": "Cancelled"
+    },
+    "paymentStatus": {
+      "pending": "Pending Payment",
+      "depositPaid": "Deposit Paid",
+      "paid": "Fully Paid",
+      "refunded": "Refunded"
+    }
+  },
+  "dashboard": {
+    "navbar": {
+      "dashboard": {
+        "title": "Dashboard",
+        "subtitle": "Manage your account and bookings",
+        "connection_state": "Online"
+      },
+      "vehicles": {
+        "title": "Vehicles",
+        "subtitle": "Manage your account and bookings"
+      }
+    },
+    "sidebar": {
+      "dashboard": "Dashboard",
+      "Vehicles": "Vehicles",
+      "Clients": "Clients",
+      "Content": "Contracts",
+      "Feedback": "Feedback",
+      "logout": "Logout"
+    },
+    "stat_card": {
+      "title": "Available Vehicles",
+      "total_revenue": "Total Revenue",
+      "total_contracts": "Total Contracts",
+      "total_clients": "Total Clients",
+      "total_vehicles": "Total Vehicles",
+      "available_vehicles": "Available Vehicles",
+      "active_contracts": "Active Contracts",
+      "new_clients": "New Clients",
+      "utilization_rate": "Utilization Rate"
+    },
+    "recent_activity": {
+      "title": "Recent Activity",
+      "confirmed_reservation": "Confirmed Reservation",
+      "new_contract": "New Contract",
+      "new_client": "New Client",
+      "contract_completed": "Contract Completed",
+      "payment_received": "Payment Received"
+    },
+    "rental_type": {
+      "title": "Rental type",
+      "subtitle": "Proportion of each rental type"
+    }
+  },
+  "priceCalc": {
+    "title": "Price Calculator",
+    "startDate": "Start Date",
+    "endDate": "End Date",
+    "chooseDates": "Choose dates",
+    "accessories": "Accessories",
+    "additionalOptions": "Additional Options",
+    "carRentalPrice": "Car Rental Price",
+    "accessoriesPrice": "Accessories Price",
+    "totalPrice": "Your Total",
+    "perDay": "/Day",
+    "confirmBooking": "Confirm Booking",
+    "selectDatesToContinue": "Select Dates to Continue",
+    "days": "days",
+    "day": "day"
+  },
+  "vehicleDetails": {
+    "gallery": "Gallery",
+    "specifications": "Specifications",
+    "pricing": "Pricing",
+    "selectDate": "Select Date",
+    "calculateCustomPrice": "Calculate Your Custom Price!",
+    "availableIn": "Available in"
+  ,
+    "calculatePriceNeeded": "Please provide dates to calculate the price"
+  },
+  "carSpecs": {
+    "title": "Detailed Specifications",
+    "titleDetailed": "Detailed Specifications",
+    "equipment": "Equipment",
+    "noEquipment": "No equipment listed",
+    "specifications": {
+      "brand": "Brand",
+      "model": "Model",
+      "year": "Year",
+      "color": "Color",
+      "engineType": "Engine Type",
+      "power": "Power",
+      "consumption": "Consumption",
+      "acceleration": "Acceleration",
+      "maxSpeed": "Max Speed",
+      "trunkCapacity": "Trunk Capacity",
+      "mileage": "Mileage",
+      "doors": "Doors",
+      "licensePlate": "License Plate",
+      "vin": "VIN",
+      "category": "Category",
+      "transmission": "Transmission",
+      "fuelType": "Fuel Type",
+      "capacity": "Capacity"
+    }
+  },
+
+  "brochure": {
+    "title": "Our Brochures",
+    "description": "Discover our detailed catalogs for all your rental needs",
+    "download": "Download Brochures"
+  }
+}

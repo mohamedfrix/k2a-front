@@ -21,7 +21,7 @@ function LandingPage() {
       slogan: t('hero.slogan'),
       primaryButton: {
         text: t('hero.primaryButton'),
-        href: "/booking",
+        href: "/#find-us",
         ariaLabel: t('hero.primaryButton')
       },
       secondaryButton: {

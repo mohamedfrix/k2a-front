@@ -77,55 +77,55 @@ function CarsPage() {
                 console.error('Error fetching vehicles:', err);
                 setError(err instanceof Error ? err.message : 'Failed to load vehicles');
                 // Fallback to sample data if API fails
-                setVehicles([
-                    {
-                        id: "1",
-                        make: "BMW",
-                        model: "X3",
-                        year: 2023,
-                        location: "Tizi Ouzou",
-                        pricePerDay: 12000,
-                        currency: "DA",
-                        images: [{
-                            url: "/vehicles/bmw-x3.jpg",
-                            alt: "BMW X3",
-                            isPrimary: true
-                        }],
-                        specs: {
-                            transmission: "automatic",
-                            fuelType: "hybrid",
-                            year: 2023,
-                            seats: 5,
-                            doors: 5
-                        },
-                        available: true,
-                        featured: true
-                    },
-                    {
-                        id: "2",
-                        make: "Mercedes",
-                        model: "C-Class",
-                        year: 2023,
-                        location: "Tizi Ouzou",
-                        pricePerDay: 9500,
-                        currency: "DA",
-                        images: [{
-                            url: "/vehicles/mercedes-c-class.jpg",
-                            alt: "Mercedes C-Class",
-                            isPrimary: true
-                        }],
-                        specs: {
-                            transmission: "automatic",
-                            fuelType: "petrol",
-                            year: 2023,
-                            seats: 5,
-                            doors: 4
-                        },
-                        available: true,
-                        featured: true
-                    }
-                ]);
-                setTotalVehicles(2);
+                // setVehicles([
+                //     {
+                //         id: "1",
+                //         make: "BMW",
+                //         model: "X3",
+                //         year: 2023,
+                //         location: "Tizi Ouzou",
+                //         pricePerDay: 12000,
+                //         currency: "DA",
+                //         images: [{
+                //             url: "/vehicles/bmw-x3.jpg",
+                //             alt: "BMW X3",
+                //             isPrimary: true
+                //         }],
+                //         specs: {
+                //             transmission: "automatic",
+                //             fuelType: "hybrid",
+                //             year: 2023,
+                //             seats: 5,
+                //             doors: 5
+                //         },
+                //         available: true,
+                //         featured: true
+                //     },
+                //     {
+                //         id: "2",
+                //         make: "Mercedes",
+                //         model: "C-Class",
+                //         year: 2023,
+                //         location: "Tizi Ouzou",
+                //         pricePerDay: 9500,
+                //         currency: "DA",
+                //         images: [{
+                //             url: "/vehicles/mercedes-c-class.jpg",
+                //             alt: "Mercedes C-Class",
+                //             isPrimary: true
+                //         }],
+                //         specs: {
+                //             transmission: "automatic",
+                //             fuelType: "petrol",
+                //             year: 2023,
+                //             seats: 5,
+                //             doors: 4
+                //         },
+                //         available: true,
+                //         featured: true
+                //     }
+                // ]);
+                // setTotalVehicles(2);
             } finally {
                 setLoading(false);
             }

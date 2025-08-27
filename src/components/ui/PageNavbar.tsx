@@ -9,8 +9,8 @@
 
 import React from 'react';
 import { Navbar } from './Navbar';
-import { scrollToSection } from '@/lib/utils';
 import type { NavbarLink } from '@/types/Navbar';
+import { useLanguage } from '@/hooks/useLanguage';
 
 interface PageNavbarProps {
   activeNavItem?: string;
@@ -22,12 +22,15 @@ export function PageNavbar({
   className = ''
 }: PageNavbarProps) {
   // Navigation links with updated targets
+  const { t } = useLanguage();
+
   const navLinks: NavbarLink[] = [
     { id: 'home', label: 'navigation.home', href: '/', isActive: activeNavItem === 'home' },
     { id: 'vehicles', label: 'navigation.vehicles', href: '/vehicles', isActive: activeNavItem === 'vehicles' },
     { id: 'services', label: 'navigation.services', href: '/#services', isActive: activeNavItem === 'services' },
     { id: 'findUs', label: 'navigation.findUs', href: '/#find-us', isActive: activeNavItem === 'findUs' },
     { id: 'contact', label: 'navigation.contact', href: '/#footer', isActive: activeNavItem === 'contact' },
+    { id: 'admin', label: 'navigation.adminDashboard', href: '/admin/dashboard', isActive: activeNavItem === 'admin' },
   ];
 
   const scrollToSection = (sectionId: string) => {
